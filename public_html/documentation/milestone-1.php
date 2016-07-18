@@ -29,8 +29,8 @@
 		<h4>Goals</h4>
 		<p>To hire a qualified individual as soon as possible, to keep up with the workload. Will spend the amount of time necessary to compile a list of eligible applicants based on their resume, online professional presence such as LinkedIn, and personal projects before setting to make contact by email and phone.</p>
 		<h2><strong>Use Case</strong></h2>
-		<p>I have sent a response to Mark's post online, with my resume and cover letter attached as well as a link to my personal website used for self branding and to showcase my portfolio. After a couple of minutes analyzing my source code and front end focus, decides to check upon my social media and LinkedIn presence.<br /></p>
-		<p>Upon viewing my LinkedIn, Facebook, and Twitter profiles, Mark decides to pencil in my name, email and phone number for future contact to perform a short phone interview.<br /></p>
-		<p> <br /></p>
+		<p>I have sent a response to Mark's post online, with my resume and cover letter attached as well as a link to my personal website used for self branding and to showcase my portfolio. After a couple of minutes analyzing my source code and front end focus on the personal website, decides to check upon my social media and LinkedIn presence.<br /></p>
+		<p>Upon viewing my LinkedIn, Facebook, and Twitter profiles, and analyzing my previous work and projects, Mark decides to pencil in my name, email and phone number for future contact to perform a short phone interview.<br /></p>
+		<p>Mark has finished fabricating the list of candidates to contact, and will narrow down the competition in the following day to make sure he picks the perfect match based on talent, personality, and professionalism.<br /></p>
 	</body>
 </html>
