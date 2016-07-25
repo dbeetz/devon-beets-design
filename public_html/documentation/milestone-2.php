@@ -13,7 +13,7 @@
 		<li>"DB Design" graphic</li>
 		<li>Photograph</li>
 		<li>About Me</li>
-		<li>Great Design!</li>
+		<li>Great Design with CSS and JavaScript!</li>
 	</ul>
 	<h3>Resume</h3>
 	<ul>
