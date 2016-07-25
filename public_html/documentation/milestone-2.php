@@ -28,4 +28,11 @@
 		<li>Facebook, LinkedIn and Twitter links</li>
 		<li>Fabricate my own email for my website and contact form (@dbeets.com or something :D) </li>
 	</ul>
+	<h2><strong>Content Strategy</strong></h2>
+	<h3>Home Page</h3>
+	<p>A stylish introduction to myself as a front end web developer with a picture, my personal graphic and a short description about myself!</p>
+	<h3>Resume and Portfolio</h3>
+	<p>A couple of items, first a PDF document with my resume and previous work history along with a technical resume and skillset. Then, also eventually once I have Photoshop and Illustrator skills I would like to add an interactive gallery of graphics and photographs.</p>
+	<h3>Contact</h3>
+	<p>A list of my contact information including my phone number, emails, Twitter, Facebook, LinkedIn, and any other social media or other forms of contact along with a form they can use to contact me along with a captcha!</p>
 </body>
