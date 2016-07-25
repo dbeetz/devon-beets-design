@@ -15,7 +15,7 @@
 		<li>About Me</li>
 		<li>Great Design with CSS and JavaScript!</li>
 	</ul>
-	<h3>Resume</h3>
+	<h3>Resume and Portfolio</h3>
 	<ul>
 		<li>PDF Document with resume</li>
 		<li>Must write and add technical resume.</li>
