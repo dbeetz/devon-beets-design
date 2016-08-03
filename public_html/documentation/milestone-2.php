@@ -18,7 +18,7 @@
 	</ul>
 	<h4>Resume and Portfolio</h4>
 	<ul>
-		<li>PDF Document with resume</li>
+		<li>PDF Document link with resume</li>
 		<li>Must write and add technical resume with web-friendly format.</li>
 		<li>Eventually add portfolio to this section with graphical work when the skills are acquired.</li>
 		<li>Add projects such as Capstone.</li>
