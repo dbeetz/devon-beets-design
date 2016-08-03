@@ -37,6 +37,7 @@
 	<h4>Contact</h4>
 	<p>A list of my contact information including my phone number, emails, Twitter, Facebook, LinkedIn, and any other social media or other forms of contact along with a form they can use to contact me along with a captcha!</p>
 	<h4>Wireframes</h4>
-	<img src="/public_html/images/dbdesignwireframemobile.svg" alt="Mobile Wireframe" />
+	<img src="../images/dbdesignwireframemobile.svg" alt="Mobile Wireframe" />
+	<img src="../images/dbdesignwireframedesktop.svg" alt="Desktop Wireframe" />
 </body>
 </html>
