@@ -36,4 +36,7 @@
 	<p>A couple of items, first a PDF document with my resume and previous work history along with a technical resume and skillset. Then, also eventually once I have Photoshop and Illustrator skills I would like to add an interactive gallery of graphics and photographs.</p>
 	<h4>Contact</h4>
 	<p>A list of my contact information including my phone number, emails, Twitter, Facebook, LinkedIn, and any other social media or other forms of contact along with a form they can use to contact me along with a captcha!</p>
+	<h4>Wireframes</h4>
+	<img src="/public_html/images/dbdesignwireframemobile.svg" alt="Mobile Wireframe" />
 </body>
+</html>
