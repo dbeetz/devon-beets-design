@@ -12,7 +12,7 @@
 		<h4>Audience</h4>
 		<p>This site is intended to be viewed by IT professionals, hiring managers, and other web developers as well as businesses looking for a freelancer.</p>
 		<h4>Goal</h4>
-		<p>The main focus of the site is to sharpen my web development front end skills, create professional contacts in the web development community, and get job opportunities either part-time, full-time, intership or contract work.</p>
+		<p>The main focus of the site is to sharpen my web development front end skills, create professional contacts in the web development community, and get job opportunities either part-time, full-time, internship or contract work.</p>
 		<h2><strong></strong>Persona</strong></h2>
 		<h4>Name</h4>
 		<p>Mark Lagann</p>
@@ -23,7 +23,7 @@
 		<h4>Technology</h4>
 		<p>Dell XPS 13 laptop PC for work at home and elsewhere, Lenovo desktop PC at office for at work productivity, and Samsung Galaxy S6 Edge.</p>
 		<h4>Attitudes and Behaviors</h4>
-		<p>A busy man, with a wide skillset. Has been in the software development business for over 15 years. He is very efficient, precise, and an effective manager through his ability to facilitate team communication. He is using the Internet to advertise for an entry to mid level software developer that he needs to help with offloading some extra work he has for his team, building software on a new project while he must maintain and supervise.</p>
+		<p>A busy man, with a wide skill set. Has been in the software development business for over 15 years. He is very efficient, precise, and an effective manager through his ability to facilitate team communication. He is using the Internet to advertise for an entry to mid level software developer that he needs to help with offloading some extra work he has for his team, building software on a new project while he must maintain and supervise.</p>
 		<h4>Frustrations and Needs</h4>
 		<p>Must fill a position to perform entry to mid level web coding and front-end maintenance for their clients’ websites to support and supplement senior web developer’s projects. Has received many applications for his opening, which he must sort through carefully to make sure that he makes the right choice while keeping his time efficient.</p>
 		<h4>Goals</h4>
