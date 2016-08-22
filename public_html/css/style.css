@@ -1,0 +1,41 @@
+/**********************************************
+* Global Styles
+/*********************************************/
+body {
+	background: url("../images/IreliaLotus.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	color: #000;
+}
+
+/**********************************************
+* Utility Styles
+/*********************************************/
+/* this is a "spacer" class */
+.p-x-10 {
+	padding-bottom: 10rem;
+	padding-top: 10rem;
+}
+
+/* sets a larger welcome area height on sm, md, and lg breakpoints */
+@media only screen and (min-width: 768px) {
+	#introduction {
+		min-height: 100vh;
+		display: flex;
+		align-items: center;
+	}
+}
+
+/**********************************************
+* Header and Navbar Styles
+/*********************************************/
+/* removes the margin-bottom that Bootstrap sets by default */
+.navbar {
+	margin-bottom: 0;
+}
+
+/* override Bootstrap default .navbar-inverse styles */
+.navbar-inverse {
+	background-image: none;
+	background-color: purple;
+}

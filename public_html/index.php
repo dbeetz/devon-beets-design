@@ -40,7 +40,7 @@
 		<div class="sfooter-content">
 			<header>
 				<!-- Begin Navbar -->
-				<div class="navbar-header">
+				<nav class="navbar-header navbar-inverse navbar-fixed-top">
 					<a class="navbar-brand" href="#">
 						<img src="images/dbfavicon.ico" alt="DBFavicon">
 					</a>
@@ -50,15 +50,15 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="http://how-i-met-your-mother.wikia.com/wiki/Challenge_Accepted_(catchphrase)">Challenge Accepted!</a>
-				</div>
+					<a class="navbar-brand" href="#">DB Design logo</a>
+
 
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav navbar-right">
-						<li><a href="http://www.google.com">About Me</a></li>
-						<li><a href="http://www.pokemon.com/us/">Resume</a></li>
-						<li><a href="https://www.reddit.com/">Contact</a></li>
+						<li><a href="https://www.google.com/">About Me</a></li>
+						<li><a href="https://www.google.com/">Resume</a></li>
+						<li><a href="https://www.google.com/">Contact</a></li>
 					</ul>
 				</div><!-- /.navbar-collapse -->
 		</div>
@@ -73,7 +73,20 @@
 				</div>
 			</div>
 		</section>
-
+		<!-- Begin About Me -->
+		<section>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-6 col-md-3">
+						<img src="images/DevonBeetsSelfieHalfSize.png" alt="Me!" class="img-responsive center-block" />
+					</div>
+				</div>
+			</div>
+		</section>
 
 		</div>
+		<!-- Begin Footer -->
+		<footer>
+
+		</footer>
 	</body>
