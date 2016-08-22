@@ -2,9 +2,8 @@
 * Global Styles
 /*********************************************/
 body {
-	background: url("../images/IreliaLotus.jpg");
+	background: url("../images/GranadaEspanaPano.jpg");
 	background-size: cover;
-	background-attachment: fixed;
 	color: #000;
 }
 
@@ -27,6 +26,27 @@ body {
 }
 
 /**********************************************
+* Welcome Section Styles
+/*********************************************/
+/* this adds padding to compensate for the fixed navbar on mobile */
+#introduction {
+	padding-top: 70px;
+}
+
+/* overrides bootstrap default styles */
+#introduction .jumbotron {
+	background: rgba(0,0,0,0);
+	border-radius: 0;
+	color: white;
+}
+
+/* set text-shadow on the <h1> in the jumbotron */
+#introduction .jumbotron h1 {
+	text-shadow: 2px 2px 0 black;
+}
+
+
+/**********************************************
 * Header and Navbar Styles
 /*********************************************/
 /* removes the margin-bottom that Bootstrap sets by default */
@@ -37,5 +57,5 @@ body {
 /* override Bootstrap default .navbar-inverse styles */
 .navbar-inverse {
 	background-image: none;
-	background-color: purple;
+	background-color: clear;
 }

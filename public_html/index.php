@@ -13,9 +13,11 @@
 
 		<!-- Font Awesome -->
 		<link type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css" rel="stylesheet" />
+		<!-- Google Fonts-->
 
-		<!-- Google Fonts -->
-		<link href="https://fonts.googleapis.com/css?family=Denk+One|Sansita+One" rel="stylesheet">
+		<!-- Favicon -->
+		<link type="image/ico" href="images/DBDesignFavicon.jpg" rel="shortcut icon" />
+
 
 		<!-- Custom CSS  -->
 		<link rel="stylesheet" href="css/style.css" type="text/css" />
@@ -41,6 +43,7 @@
 			<header>
 				<!-- Begin Navbar -->
 				<nav class="navbar-header navbar-inverse navbar-fixed-top">
+					<div class="container">
 					<a class="navbar-brand" href="#">
 						<img src="images/dbfavicon.ico" alt="DBFavicon">
 					</a>
