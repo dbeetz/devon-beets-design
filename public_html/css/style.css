@@ -57,5 +57,5 @@ body {
 /* override Bootstrap default .navbar-inverse styles */
 .navbar-inverse {
 	background-image: none;
-	background-color: clear;
+	background-color: blue;
 }
