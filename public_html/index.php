@@ -83,6 +83,10 @@
 					<div class="col-sm-6 col-md-3">
 						<img src="images/DevonBeetsSelfieHalfSize.png" alt="Me!" class="img-responsive center-block" />
 					</div>
+					<div class="col-sm-6 col-md-9">
+						<h3>Hello there!</h3>
+						<p>My name is Devon Beets and I am a web developer and graphics artist! I love both people and technology and the power that is made when the two are brought together.</p>
+					</div>
 				</div>
 			</div>
 		</section>
