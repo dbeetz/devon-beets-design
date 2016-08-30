@@ -59,3 +59,17 @@ body {
 	background-image: none;
 	background-color: black;
 }
+
+/**********************************************
+* Content Sections Styles
+/*********************************************/
+
+
+/**********************************************
+* Footer Styles
+/*********************************************/
+
+footer {
+	background-color: black;
+	color: white;
+}
