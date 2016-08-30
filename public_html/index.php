@@ -76,9 +76,13 @@
 			<!-- Begin Jumbotron -->
 			<section id="introduction">
 				<div class="container">
-					<div class="jumbotron text-center">
-						<h1>Devon Beets</h1>
-						<p>Web Designer</p>
+					<div class="row">
+						<div class="col-xs-12">
+							<div class="jumbotron col-md-6 col-md-offset-5">
+								<h1>Devon Beets</h1>
+								<p>Web Designer</p>
+							</div>
+						</div>
 					</div>
 				</div>
 			</section>

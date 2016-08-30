@@ -31,18 +31,19 @@ body {
 /* this adds padding to compensate for the fixed navbar on mobile */
 #introduction {
 	padding-top: 70px;
+	background-image: url(../images/Colored-Clouds.jpg);
+	background-size: cover;
 }
 
 /* overrides bootstrap default styles */
 #introduction .jumbotron {
-	background: rgba(0,0,0,0);
 	border-radius: 0;
 	color: black;
 }
 
 /* set text-shadow on the <h1> in the jumbotron */
 #introduction .jumbotron h1 {
-	text-shadow: 1px 1px 0 black;
+	text-shadow: 1px 1px 0 grey;
 }
 
 
