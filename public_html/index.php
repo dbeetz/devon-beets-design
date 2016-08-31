@@ -88,13 +88,25 @@
 
 			<!-- Begin About Me -->
 			<section id="about-me">
-					<h1 class="text-center">Web Developer, Graphic Artist, Gamer</h1>
+				<div class="about-me-title">
+					<h1 class="text-center">Web Developer <span class="fa fa-code"></span> Graphic Artist <span class="fa fa-paint-brush"></span> Gamer <span class="fa fa-gamepad"></span></h1>
+				</div>
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-6 col-md-9">
-							<h3>Hello there!</h3>
-							<p>My name is Devon Beets and I am a web developer and graphics artist! I love both people and
-								technology and the power that is made when the two are brought together.</p>
+							<div class="well">
+								<h3>Hello there!</h3>
+								<p>My name is Devon Beets and I am a web developer and graphics artist! I love both people and
+									technology and the power that is made when the two are brought together.</p>
+								<p>I have loved working and playing with computers since I was a little kid, thanks to my
+									dad! He taught me how to build a PC when I was thirteen!</p>
+								<p>I have since gotten my degree from the University of New Mexico in International business
+									management, but after I graduated had a change of heart and decided to follow my passion for
+									information technology!</p>
+								<p>I hope you enjoy my site and learn a thing or two about me, if you are interested in getting
+									to know me or employ my services please leave me a message!</p>
+								<p class="text-center">Thank you!</p>
+							</div>
 						</div>
 						<div class="col-sm-6 col-md-3">
 							<img src="images/DevonBeetsSelfieHalfSize.png" alt="Me!" class="img-responsive center-block"/>
@@ -105,14 +117,32 @@
 
 			<!-- Begin Resume -->
 			<section id="resume">
-					<h1 class="text-center">Some of my Work</h1>
+				<div class="resume-title">
+					<h1 class="text-center">My Work</h1>
+				</div>
 				<div class="container">
 					<div class="row">
-						<div class="col-sm-6 col-md-6">
-							<p>Insert Simplified Resume Content Here! :)</p>
+						<div class="col-sm-3 col-md-3 col-md-offset-3">
+							<p>Insert picture of project here!</p>
 						</div>
-						<div class="col-sm-6 col-md-6">
-							<p>And here!</p>
+						<div class="col-sm-3 col-md-3">
+							<p>Insert comments and project duties here!</p>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-3 col-md-3 col-md-offset-3">
+							<p>Insert picture of project here!</p>
+						</div>
+						<div class="col-sm-3 col-md-3">
+							<p>Insert comments and project duties here!</p>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-3 col-md-3 col-md-offset-3">
+							<p>Insert picture of project here!</p>
+						</div>
+						<div class="col-sm-3 col-md-3">
+							<p>Insert comments and project duties here!</p>
 						</div>
 					</div>
 				</div>
@@ -121,30 +151,57 @@
 
 		<!-- Begin Contact -->
 		<section id="contact">
+			<div class="contact-title">
 				<h1 class="text-center">Want to Talk?</h1>
+			</div>
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12 col-md-6 col-md-offset-3">
-						<form>
-							<div class="form-group">
-								<label for="Name">Name</label>
-								<input type="text" class="form-control" id="name" placeholder="Name">
-							</div>
-							<div class="form-group">
-								<label for="Name">Email</label>
-								<input type="email" class="form-control" id="email" placeholder="Email">
-							</div>
-							<div class="form-group">
-								<label for="exampleInputPassword1">Subject</label>
-								<input type="text" class="form-control" id="subject" placeholder="Subject">
-							</div>
-							<div class="form-group">
-								<label for="exampleInputPassword1">Content</label>
-								<textarea class="form-control" rows="4" maxlength="500" id="content"
-											 placeholder="What would you like to talk about?"></textarea>
-							</div>
-							<button type="submit" class="btn btn-default">Submit</button>
-						</form>
+						<div class="well">
+							<form>
+								<div class="form-group">
+									<label for="Name">Name</label>
+									<div class="input-group">
+										<div class="input-group-addon">
+											<span class="fa fa-user fa-fw" aria-hidden="true"></span>
+										</div>
+										<input type="text" class="form-control" id="name"
+												 placeholder="Who do I have the pleasure of speaking with?">
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="Name">Email</label>
+									<div class="input-group">
+										<div class="input-group-addon">
+											<span class="fa fa-envelope fa-fw" aria-hidden="true"></span>
+										</div>
+										<input type="email" class="form-control" id="email"
+												 placeholder="What is your email address that I may respond to?">
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="exampleInputPassword1">Subject</label>
+									<div class="input-group">
+										<div class="input-group-addon">
+											<span class="fa fa-info-circle fa-fw" aria-hidden="true"></span>
+										</div>
+										<input type="text" class="form-control" id="subject" placeholder="What's the topic?">
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="exampleInputPassword1">Content</label>
+									<div class="input-group">
+										<div class="input-group-addon">
+											<span class="fa fa-comment fa-fw" aria-hidden="true"></span>
+										</div>
+										<textarea class="form-control" rows="4" maxlength="500" id="content"
+													 placeholder="What would you like to talk about?"></textarea>
+									</div>
+								</div>
+								<a class="btn btn-primary" href="#"><i class="fa fa-rocket fa-lg"></i> Submit</a>
+								<a id="reset-form" class="btn btn-warning href="#"><i class="fa fa-undo fa-lg"></i> Reset</a>
+							</form>
+						</div>
 					</div>
 				</div>
 			</div>
