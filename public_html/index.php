@@ -88,7 +88,7 @@
 
 			<!-- Begin About Me -->
 			<section id="about-me">
-				<h1 class="text-center">Web Developer, Graphic Artist, Gamer</h1>
+					<h1 class="text-center">Web Developer, Graphic Artist, Gamer</h1>
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-6 col-md-9">
@@ -105,7 +105,7 @@
 
 			<!-- Begin Resume -->
 			<section id="resume">
-				<h1 class="text-center">Resume</h1>
+					<h1 class="text-center">Some of my Work</h1>
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-6 col-md-6">
@@ -121,7 +121,7 @@
 
 		<!-- Begin Contact -->
 		<section id="contact">
-			<h1 class="text-center">Want to Talk?</h1>
+				<h1 class="text-center">Want to Talk?</h1>
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12 col-md-6 col-md-offset-3">
@@ -140,7 +140,8 @@
 							</div>
 							<div class="form-group">
 								<label for="exampleInputPassword1">Content</label>
-								<input type="text" class="form-control" id="content" placeholder="What would you like to talk about?">
+								<textarea class="form-control" rows="4" maxlength="500" id="content"
+											 placeholder="What would you like to talk about?"></textarea>
 							</div>
 							<button type="submit" class="btn btn-default">Submit</button>
 						</form>
