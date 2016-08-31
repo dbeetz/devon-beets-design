@@ -73,19 +73,21 @@
 					</div>
 				</nav>
 			</header>
+
 			<!-- Begin Jumbotron -->
 			<section id="introduction">
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-12">
 							<div class="jumbotron col-md-6 col-md-offset-5">
-								<h1>Devon Beets</h1>
-								<p>Web Designer</p>
+								<h1 class="text-center">Devon Beets</h1>
+								<p class="text-center">Web Designer</p>
 							</div>
 						</div>
 					</div>
 				</div>
 			</section>
+
 			<!-- Begin About Me -->
 			<section id="about-me">
 				<h1 class="text-center">About Me</h1>
@@ -102,6 +104,8 @@
 					</div>
 				</div>
 			</section>
+
+			<!-- Begin Resume -->
 			<section id="resume">
 				<h1 class="text-center">Resume</h1>
 				<div class="container">
@@ -116,6 +120,38 @@
 				</div>
 			</section>
 		</div>
+
+		<!-- Begin Contact -->
+		<section id="contact">
+			<h1 class="text-center">Contact</h1>
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12">
+						<form>
+							<div class="form-group">
+								<label for="exampleInputEmail1">Email address</label>
+								<input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+							</div>
+							<div class="form-group">
+								<label for="exampleInputPassword1">Password</label>
+								<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+							</div>
+							<div class="form-group">
+								<label for="exampleInputFile">File input</label>
+								<input type="file" id="exampleInputFile">
+								<p class="help-block">Example block-level help text here.</p>
+							</div>
+							<div class="checkbox">
+								<label>
+									<input type="checkbox"> Check me out
+								</label>
+							</div>
+							<button type="submit" class="btn btn-default">Submit</button>
+						</form>
+					</div>
+				</div>
+			</div>
+		</section>
 
 		<!-- Begin Footer -->
 		<footer>

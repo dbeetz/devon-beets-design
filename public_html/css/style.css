@@ -38,6 +38,8 @@ body {
 /* overrides bootstrap default styles */
 #introduction .jumbotron {
 	border-radius: 0;
+	box-shadow: 0 0 50px rgba(0,0,0,0.8);
+	background-color: rgba(238,247,200,0.5);
 	color: black;
 }
 
@@ -58,7 +60,8 @@ body {
 /* override Bootstrap default .navbar-inverse styles */
 .navbar-inverse {
 	background-image: none;
-	background-color: black;
+	background-color: #0033EE;
+	box-shadow: 0 0 50px rgba(0,0,0,0.8);
 }
 
 /**********************************************
@@ -71,6 +74,6 @@ body {
 /*********************************************/
 
 footer {
-	background-color: black;
+	background-color: #0033EE;
 	color: white;
 }
