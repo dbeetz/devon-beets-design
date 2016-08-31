@@ -212,16 +212,16 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-1 col-xs-offset-4">
-						<a href="#"><span class="fa-stack fa-lg"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-linkedin fa-stack-1x"></i></span></a>
+						<a href="https://www.linkedin.com/in/devon-beets"><span class="fa-stack fa-lg"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-linkedin fa-stack-1x"></i></span></a>
 					</div>
 					<div class="col-xs-1">
-						<a href="#"><span class="fa-stack fa-lg"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x"></i></span></a>
+						<a href="https://twitter.com/dayBeeTz"><span class="fa-stack fa-lg"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x"></i></span></a>
 					</div>
 					<div class="col-xs-1">
-						<a href="#"><span class="fa-stack fa-lg"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x"></i></span></a>
+						<a href="https://www.facebook.com/devonnbeets"><span class="fa-stack fa-lg"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x"></i></span></a>
 					</div>
 					<div class="col-xs-1">
-						<a href="#"><span class="fa-stack fa-lg"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-github fa-stack-1x"></i></span></a>
+						<a href="https://github.com/dbeetz"><span class="fa-stack fa-lg"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-github fa-stack-1x"></i></span></a>
 					</div>
 				</div>
 				<div class="row">
