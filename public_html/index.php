@@ -49,9 +49,6 @@
 				<!-- Begin Navbar -->
 				<nav class="navbar-header navbar-inverse navbar-fixed-top">
 					<div class="container">
-						<a class="navbar-brand" href="#">
-							<img src="images/dbfavicon.ico" alt="DBFavicon">
-						</a>
 						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
 								  data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
 							<span class="sr-only">Toggle navigation</span>
@@ -80,8 +77,9 @@
 					<div class="row">
 						<div class="col-xs-12">
 							<div class="jumbotron col-md-6 col-md-offset-5">
+								<p class="text-center">Hello! My name is</p>
 								<h1 class="text-center">Devon Beets</h1>
-								<p class="text-center">Web Designer</p>
+								<p class="text-center">and I'm a Web Designer! :)</p>
 							</div>
 						</div>
 					</div>
@@ -90,7 +88,7 @@
 
 			<!-- Begin About Me -->
 			<section id="about-me">
-				<h1 class="text-center">About Me</h1>
+				<h1 class="text-center">Web Developer, Graphic Artist, Gamer</h1>
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-6 col-md-9">
