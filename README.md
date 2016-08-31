@@ -24,3 +24,8 @@ Overall, very nice work here. Everything is well done. Your Milestone 2&alpha; p
 ### Edits &amp; Suggestions
 - The &lt;html&gt; tag is closed prematurely on line 7. Also, watch indentation.
 - Have a look at [Font Awesome](http://fontawesome.io/) for free iconography. Useful for social media links.
+
+## Milestone 2&beta; Feedback
+- Look at: https://bootcamp-coders.cnm.edu/~rlewis37/simple-template/public_html/js/custom-javascript.js for an example on how to write jQuery to alter the nav
+- Look at native CSS-driven parallax
+- jQuery/Swiftmailer Form Documentation: https://bootcamp-coders.cnm.edu/class-materials/jquery-validated-captcha-form/
