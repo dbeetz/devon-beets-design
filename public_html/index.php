@@ -89,10 +89,13 @@
 			<!-- Begin About Me -->
 			<section id="about-me">
 				<div class="about-me-title">
-					<h1 class="text-center">Web Developer <span class="fa fa-code"></span> Graphic Artist <span class="fa fa-paint-brush"></span> Gamer <span class="fa fa-gamepad"></span></h1>
+					<h1 class="text-center">Web Developer <span class="fa fa-code fa-fw"></span> Graphic Artist <span class="fa fa-paint-brush fa-fw"></span> Gamer <span class="fa fa-gamepad fa-fw"></span></h1>
 				</div>
 				<div class="container">
 					<div class="row">
+						<div class="col-sm-6 col-md-3">
+							<img src="images/DevonBeetsSelfieHalfSize.png" alt="Me!" class="img-responsive center-block"/>
+						</div>
 						<div class="col-sm-6 col-md-9">
 							<div class="well">
 								<h3>Hello there!</h3>
@@ -107,9 +110,6 @@
 									to know me or employ my services please leave me a message!</p>
 								<p class="text-center">Thank you!</p>
 							</div>
-						</div>
-						<div class="col-sm-6 col-md-3">
-							<img src="images/DevonBeetsSelfieHalfSize.png" alt="Me!" class="img-responsive center-block"/>
 						</div>
 					</div>
 				</div>
@@ -176,7 +176,7 @@
 											<span class="fa fa-envelope fa-fw" aria-hidden="true"></span>
 										</div>
 										<input type="email" class="form-control" id="email"
-												 placeholder="What is your email address that I may respond to?">
+												 placeholder="What is your email address?">
 									</div>
 								</div>
 								<div class="form-group">
@@ -210,6 +210,20 @@
 		<!-- Begin Footer -->
 		<footer>
 			<div class="container">
+				<div class="row">
+					<div class="col-xs-1 col-xs-offset-4">
+						<a href="#"><span class="fa-stack fa-lg"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-linkedin fa-stack-1x"></i></span></a>
+					</div>
+					<div class="col-xs-1">
+						<a href="#"><span class="fa-stack fa-lg"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x"></i></span></a>
+					</div>
+					<div class="col-xs-1">
+						<a href="#"><span class="fa-stack fa-lg"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x"></i></span></a>
+					</div>
+					<div class="col-xs-1">
+						<a href="#"><span class="fa-stack fa-lg"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-github fa-stack-1x"></i></span></a>
+					</div>
+				</div>
 				<div class="row">
 					<div class="col-xs-12">
 						<p class="text-center h6">© Devon Beets 2016 All Rights Reserved</p>
