@@ -121,28 +121,26 @@
 
 		<!-- Begin Contact -->
 		<section id="contact">
-			<h1 class="text-center">Contact</h1>
+			<h1 class="text-center">Want to Talk?</h1>
 			<div class="container">
 				<div class="row">
-					<div class="col-xs-12">
+					<div class="col-xs-12 col-md-6 col-md-offset-3">
 						<form>
 							<div class="form-group">
-								<label for="exampleInputEmail1">Email address</label>
-								<input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+								<label for="Name">Name</label>
+								<input type="text" class="form-control" id="name" placeholder="Name">
 							</div>
 							<div class="form-group">
-								<label for="exampleInputPassword1">Password</label>
-								<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+								<label for="Name">Email</label>
+								<input type="email" class="form-control" id="email" placeholder="Email">
 							</div>
 							<div class="form-group">
-								<label for="exampleInputFile">File input</label>
-								<input type="file" id="exampleInputFile">
-								<p class="help-block">Example block-level help text here.</p>
+								<label for="exampleInputPassword1">Subject</label>
+								<input type="text" class="form-control" id="subject" placeholder="Subject">
 							</div>
-							<div class="checkbox">
-								<label>
-									<input type="checkbox"> Check me out
-								</label>
+							<div class="form-group">
+								<label for="exampleInputPassword1">Content</label>
+								<input type="text" class="form-control" id="content" placeholder="What would you like to talk about?">
 							</div>
 							<button type="submit" class="btn btn-default">Submit</button>
 						</form>
