@@ -24,6 +24,10 @@ button:active {
 	transition: all 250ms ease-in-out;
 }
 
+.container {
+	width: 90%;
+}
+
 h1 {
 	padding-bottom: 7.5rem;
 	padding-top: 7.5rem;
@@ -77,6 +81,11 @@ h1 {
 	margin-bottom: 0;
 }
 
+/* navbar text links colors */
+.navbar-inverse .navbar-nav>li>a {
+	color: yellow;
+}
+
 /* override Bootstrap default .navbar-inverse styles */
 .navbar-inverse {
 	background-image: none;
@@ -104,7 +113,7 @@ h1 {
 }
 
 .well {
-	background-color: white;
+	background: rgba(255, 255, 255, 0.8);
 	box-shadow: 0 0 25px rgba(0,0,0,0.3);
 }
 

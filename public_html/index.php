@@ -62,9 +62,9 @@
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav navbar-right">
-								<li><a href="https://www.google.com/">About Me</a></li>
-								<li><a href="https://www.google.com/">Resume</a></li>
-								<li><a href="https://www.google.com/">Contact</a></li>
+								<li><a href="#about-me">About Me</a></li>
+								<li><a href="#resume">Resume</a></li>
+								<li><a href="#contact">Contact</a></li>
 							</ul>
 						</div><!-- /.navbar-collapse -->
 					</div>
@@ -89,7 +89,8 @@
 			<!-- Begin About Me -->
 			<section id="about-me">
 				<div class="about-me-title">
-					<h1 class="text-center">Web Developer <span class="fa fa-code fa-fw"></span> Graphic Artist <span class="fa fa-paint-brush fa-fw"></span> Gamer <span class="fa fa-gamepad fa-fw"></span></h1>
+					<h1 class="text-center">Web Developer <span class="fa fa-code fa-fw"></span> Graphic Artist <span
+							class="fa fa-paint-brush fa-fw"></span> Gamer <span class="fa fa-gamepad fa-fw"></span></h1>
 				</div>
 				<div class="container">
 					<div class="row">
@@ -166,7 +167,7 @@
 											<span class="fa fa-user fa-fw" aria-hidden="true"></span>
 										</div>
 										<input type="text" class="form-control" id="name"
-												 placeholder="Who do I have the pleasure of speaking with?">
+												 placeholder="Who am I speaking with?">
 									</div>
 								</div>
 								<div class="form-group">
@@ -199,7 +200,7 @@
 									</div>
 								</div>
 								<a class="btn btn-primary" href="#"><i class="fa fa-rocket fa-lg"></i> Submit</a>
-								<a id="reset-form" class="btn btn-warning href="#"><i class="fa fa-undo fa-lg"></i> Reset</a>
+								<a id="reset-form" class="btn btn-warning href=" #"><i class="fa fa-undo fa-lg"></i> Reset</a>
 							</form>
 						</div>
 					</div>
@@ -212,16 +213,20 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-1 col-xs-offset-4">
-						<a href="https://www.linkedin.com/in/devon-beets" target="_blank"><span class="fa-stack fa-lg"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-linkedin fa-stack-1x"></i></span></a>
+						<a href="https://www.linkedin.com/in/devon-beets" target="_blank"><span class="fa-stack fa-lg"><i
+									class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-linkedin fa-stack-1x"></i></span></a>
 					</div>
 					<div class="col-xs-1">
-						<a href="https://twitter.com/dayBeeTz" target="_blank"><span class="fa-stack fa-lg"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x"></i></span></a>
+						<a href="https://twitter.com/dayBeeTz" target="_blank"><span class="fa-stack fa-lg"><i
+									class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x"></i></span></a>
 					</div>
 					<div class="col-xs-1">
-						<a href="https://www.facebook.com/devonnbeets" target="_blank"><span class="fa-stack fa-lg"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x"></i></span></a>
+						<a href="https://www.facebook.com/devonnbeets" target="_blank"><span class="fa-stack fa-lg"><i
+									class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x"></i></span></a>
 					</div>
 					<div class="col-xs-1">
-						<a href="https://github.com/dbeetz" target="_blank"><span class="fa-stack fa-lg"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-github fa-stack-1x"></i></span></a>
+						<a href="https://github.com/dbeetz" target="_blank"><span class="fa-stack fa-lg"><i
+									class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-github fa-stack-1x"></i></span></a>
 					</div>
 				</div>
 				<div class="row">
