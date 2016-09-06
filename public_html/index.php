@@ -95,14 +95,14 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-6 col-md-3">
-							<img src="images/DevonBeetsSelfieHalfSize.png" alt="Me!" class="img-responsive center-block"/>
+							<img src="images/DevonBeetsSelfieHalfSize.png" alt="Devon Beets" class="img-responsive center-block"/>
 						</div>
 						<div class="col-sm-6 col-md-9">
 							<div class="well">
 								<h3>Hello there!</h3>
 								<p>My name is Devon Beets and I am a web developer and graphics artist! I love both people and
 									technology and the power that is made when the two are brought together.</p>
-								<p>I have loved working and playing with computers since I was a little kid, thanks to my
+								<p>I have enjoyed working and playing with computers since I was a little kid, thanks to my
 									dad! He taught me how to build a PC when I was thirteen!</p>
 								<p>I have since gotten my degree from the University of New Mexico in International business
 									management, but after I graduated had a change of heart and decided to follow my passion for
