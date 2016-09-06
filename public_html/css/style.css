@@ -83,7 +83,7 @@ h1 {
 
 /* navbar text links colors */
 .navbar-inverse .navbar-nav>li>a {
-	color: yellow;
+	color: #a7f8ff;
 }
 
 /* override Bootstrap default .navbar-inverse styles */
@@ -124,4 +124,9 @@ h1 {
 footer {
 	background-color: #0033EE;
 	color: white;
+}
+
+a {
+	color: #a7f8ff;
+	text-decoration: none;
 }

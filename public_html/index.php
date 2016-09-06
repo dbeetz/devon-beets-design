@@ -123,6 +123,16 @@
 				</div>
 				<div class="container">
 					<div class="row">
+						<div class="col-xs-12">
+							<h6>Languages</h6>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-12">
+
+						</div>
+					</div>
+					<div class="row">
 						<div class="col-sm-3 col-md-3 col-md-offset-3">
 							<p>Insert picture of project here!</p>
 						</div>
