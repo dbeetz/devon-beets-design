@@ -84,22 +84,32 @@ h1 {
 .navbar {
 	margin-bottom: 0;
 }
+nav.navbar {
+	-webkit-transition: all 500ms ease;
+	-moz-transition: all 500ms ease;
+	-ms-transition: all 500ms ease;
+	-o-transition: all 500ms ease;
+	transition: all 500ms ease;
+}
 
 /* navbar text links colors */
 .navbar-inverse .navbar-nav>li>a {
-	color: #a7f8ff;
+	background: none;
+	color: #0033EE;
 	font-size: 1.5rem;
 }
 
 /* override Bootstrap default .navbar-inverse styles */
 .navbar-inverse {
-	background-image: none;
-	background-color: #0033EE;
-	box-shadow: 0 0 50px rgba(0,0,0,0.5);
+	background: none;
 }
 
 .navbar-inverse .navbar-brand {
 	color: #a7f8ff;
+}
+
+.navbar-default {
+	background-color: white;
 }
 
 /**********************************************

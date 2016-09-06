@@ -43,7 +43,7 @@
 
 		<title>Devon Beets Design</title>
 	</head>
-	<body class="sfooter">
+	<body class="sfooter home-layout">
 		<div class="sfooter-content">
 			<header>
 				<!-- Begin Navbar -->
@@ -56,7 +56,7 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="#">DB Design logo</a>
+						<a class="navbar-brand" href="#introduction">DB Design logo</a>
 
 
 						<!-- Collect the nav links, forms, and other content for toggling -->
@@ -95,7 +95,8 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-6 col-md-3">
-							<img src="images/DevonBeetsSelfieHalfSize.png" alt="Devon Beets" class="img-responsive center-block"/>
+							<img src="images/DevonBeetsSelfieHalfSize.png" alt="Devon Beets"
+								  class="img-responsive center-block"/>
 						</div>
 						<div class="col-sm-6 col-md-9">
 							<div class="well">
