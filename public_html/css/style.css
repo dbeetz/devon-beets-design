@@ -24,6 +24,10 @@ button:active {
 	transition: all 250ms ease-in-out;
 }
 
+a:hover {
+	color: white;
+}
+
 .container {
 	width: 90%;
 }
@@ -84,6 +88,7 @@ h1 {
 /* navbar text links colors */
 .navbar-inverse .navbar-nav>li>a {
 	color: #a7f8ff;
+	font-size: 1.5rem;
 }
 
 /* override Bootstrap default .navbar-inverse styles */
@@ -91,6 +96,10 @@ h1 {
 	background-image: none;
 	background-color: #0033EE;
 	box-shadow: 0 0 50px rgba(0,0,0,0.5);
+}
+
+.navbar-inverse .navbar-brand {
+	color: #a7f8ff;
 }
 
 /**********************************************
