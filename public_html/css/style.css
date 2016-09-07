@@ -1,6 +1,13 @@
 /**********************************************
+* Custom CSS for Devon Beets Design
+* Many thanks to Rochelle Lewis @rlewis37@cnm.edu
+* @author devon@devonbeetsdesign.com
+/*********************************************/
+
+/**********************************************
 * Global Styles
 /*********************************************/
+html,
 body {
 	background: white;
 	background-size: cover;
@@ -81,9 +88,6 @@ h1 {
 * Header and Navbar Styles
 /*********************************************/
 /* removes the margin-bottom that Bootstrap sets by default */
-.navbar {
-	margin-bottom: 0;
-}
 nav.navbar {
 	-webkit-transition: all 500ms ease;
 	-moz-transition: all 500ms ease;
@@ -92,24 +96,25 @@ nav.navbar {
 	transition: all 500ms ease;
 }
 
+.navbar-default {
+	background-color: #a7f8ff;
+	color: #0033EE;
+}
+
 /* navbar text links colors */
 .navbar-inverse .navbar-nav>li>a {
-	background: none;
 	color: #0033EE;
 	font-size: 1.5rem;
 }
 
 /* override Bootstrap default .navbar-inverse styles */
 .navbar-inverse {
-	background: none;
+	background-color: transparent;
+	border-bottom: none;
 }
 
 .navbar-inverse .navbar-brand {
-	color: #a7f8ff;
-}
-
-.navbar-default {
-	background-color: white;
+	color: #0033EE;
 }
 
 /**********************************************

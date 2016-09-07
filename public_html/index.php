@@ -52,7 +52,7 @@
 		<div class="sfooter-content">
 			<header>
 				<!-- Begin Navbar -->
-				<nav class="navbar-header navbar-inverse navbar-fixed-top">
+				<nav class="navbar navbar-fixed-top navbar-inverse">
 					<div class="container">
 						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
 								  data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
