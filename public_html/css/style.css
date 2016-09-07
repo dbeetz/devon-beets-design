@@ -98,23 +98,28 @@ nav.navbar {
 
 .navbar-default {
 	background-color: #a7f8ff;
+}
+
+.navbar-inverse .navbar-brand {
 	color: #0033EE;
 }
 
 /* navbar text links colors */
 .navbar-inverse .navbar-nav>li>a {
 	color: #0033EE;
-	font-size: 1.5rem;
+}
+
+.navbar-inverse .navbar-brand:focus,
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-nav>li>a:focus,
+.navbar-inverse .navbar-nav>li>a:hover {
+	color: yellow;
 }
 
 /* override Bootstrap default .navbar-inverse styles */
 .navbar-inverse {
-	background-color: transparent;
+	background: none;
 	border-bottom: none;
-}
-
-.navbar-inverse .navbar-brand {
-	color: #0033EE;
 }
 
 /**********************************************

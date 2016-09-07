@@ -39,9 +39,4 @@ $(document).ready(function(){
 		});
 	}
 
-	/* check body tag for content-layout class, and add navbar-DEFAULT class */
-	if($('body').hasClass('content-layout')) {
-		$('.navbar').addClass('navbar-default');
-	}
-
 });
