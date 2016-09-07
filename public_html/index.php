@@ -49,13 +49,16 @@
 		<script type="text/javascript"
 				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
 
+		<!-- Custom JavaScript -->
+		<script src="js/custom-javascript.js" type="text/javascript"></script>
+
 		<title>Devon Beets Design</title>
 	</head>
-	<body class="sfooter home-layout" data-gr-c-s-loaded="true">
+	<body class="sfooter home-layout">
 		<div class="sfooter-content">
 			<header>
 				<!-- Begin Navbar -->
-				<nav class="navbar navbar-fixed-top navbar-inverse">
+				<nav class="navbar navbar-fixed-top">
 					<div class="container">
 						<div class="navbar-header">
 							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"

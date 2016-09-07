@@ -97,23 +97,39 @@ nav.navbar {
 }
 
 .navbar-default {
-	background-color: #a7f8ff;
+	background-color: #019FDC;
+	border: none;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #019FDC;
+}
+
+.navbar-default .navbar-brand {
+	color: #019FDC;
+}
+
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav>li>a:hover {
+	color: #ED7B09;
 }
 
 .navbar-inverse .navbar-brand {
-	color: #0033EE;
+	color: white;
 }
 
 /* navbar text links colors */
 .navbar-inverse .navbar-nav>li>a {
-	color: #0033EE;
+	color: white;
 }
 
 .navbar-inverse .navbar-brand:focus,
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-nav>li>a:focus,
 .navbar-inverse .navbar-nav>li>a:hover {
-	color: yellow;
+	color: #ED7B09;
 }
 
 /* override Bootstrap default .navbar-inverse styles */
