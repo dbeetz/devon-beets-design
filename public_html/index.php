@@ -16,6 +16,7 @@
 		<!-- Font Awesome -->
 		<link type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css"
 				rel="stylesheet"/>
+
 		<!-- Google Fonts-->
 
 		<!-- Favicon -->
@@ -41,6 +42,9 @@
 				  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
 				  crossorigin="anonymous"></script>
 
+		<!-- Google reCaptcha -->
+		<script src='https://www.google.com/recaptcha/api.js'></script>
+
 		<!-- jQuery Form, Additional Methods, Validate -->
 		<script type="text/javascript"
 				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
@@ -48,6 +52,9 @@
 				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/jquery.validate.min.js"></script>
 		<script type="text/javascript"
 				  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
+
+		<!-- JavaScript Form Validator -->
+		<script src="js/form-validate.js"></script>
 
 		<!-- Custom JavaScript -->
 		<script src="js/custom-javascript.js" type="text/javascript"></script>
@@ -183,7 +190,7 @@
 				<div class="row">
 					<div class="col-xs-12 col-md-6 col-md-offset-3">
 						<div class="well">
-							<form>
+							<form id="contact-form" action="" method="POST">
 								<div class="form-group">
 									<label for="Name">Name</label>
 									<div class="input-group">
@@ -223,6 +230,9 @@
 													 placeholder="What would you like to talk about?"></textarea>
 									</div>
 								</div>
+
+								<!-- Insert Google reCaptcha -->
+								<div class="g-recaptcha" data-sitekey="6Le8sykTAAAAAK6v6nl8jfFS6UIwr-xX3yUesdAw"></div>
 								<a class="btn btn-primary" href="#"><i class="fa fa-rocket fa-lg"></i> Submit</a>
 								<a id="reset-form" class="btn btn-warning href=" #"><i class="fa fa-undo fa-lg"></i> Reset</a>
 							</form>
