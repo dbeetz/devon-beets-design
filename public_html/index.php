@@ -18,6 +18,7 @@
 				rel="stylesheet"/>
 
 		<!-- Google Fonts-->
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
 
 		<!-- Favicon -->
 		<link type="image/ico" href="images/DBDesignFavicon.jpg" rel="shortcut icon"/>
@@ -82,9 +83,9 @@
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav navbar-right">
-								<li><a href="#about-me">About Me</a></li>
-								<li><a href="#resume">My Work</a></li>
-								<li><a href="#contact">Contact</a></li>
+								<li><a href="#about-me">ABOUT ME</a></li>
+								<li><a href="#resume">MY WORK</a></li>
+								<li><a href="#contact">CONTACT</a></li>
 							</ul>
 						</div><!-- /.navbar-collapse -->
 					</div>
@@ -111,13 +112,13 @@
 				<div class="about-me-title">
 					<h1 class="text-center">
 						<div class="row">
-						<div class="col-md-4 col-xs-12">
-							Web Developer <span class="fa fa-code fa-fw"></span></div>
-						<div class="col-md-4 col-xs-12">
-						Graphic Artist <span
-							class="fa fa-paint-brush fa-fw"></span></div>
-						<div class="col-md-4 col-xs-12">
-						Gamer <span class="fa fa-gamepad fa-fw"></span></div>
+							<div class="col-md-4 col-xs-12">
+								WEB DEVELOPER <span class="fa fa-code fa-fw"></span></div>
+							<div class="col-md-4 col-xs-12">
+								GRAPHIC ARTIST <span
+									class="fa fa-paint-brush fa-fw"></span></div>
+							<div class="col-md-4 col-xs-12">
+								GAMER <span class="fa fa-gamepad fa-fw"></span></div>
 						</div>
 					</h1>
 				</div>
@@ -149,7 +150,7 @@
 			<!-- Begin My Work -->
 			<section id="resume">
 				<div class="resume-title">
-					<h1 class="text-center">My Work</h1>
+					<h1 class="text-center">MY WORK</h1>
 				</div>
 				<div class="container">
 					<div class="row">
@@ -193,7 +194,7 @@
 		<!-- Begin Contact -->
 		<section id="contact">
 			<div class="contact-title">
-				<h1 class="text-center">Want to Talk?</h1>
+				<h1 class="text-center">WANT TO TALK?</h1>
 			</div>
 			<div class="container">
 				<div class="row">
