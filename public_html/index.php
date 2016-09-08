@@ -217,7 +217,8 @@
 										<div class="input-group-addon">
 											<span class="fa fa-info-circle fa-fw" aria-hidden="true"></span>
 										</div>
-										<input type="text" class="form-control" id="subject" name="subject" placeholder="What's the topic?">
+										<input type="text" class="form-control" id="subject" name="subject"
+												 placeholder="What's the topic?">
 									</div>
 								</div>
 								<div class="form-group">
