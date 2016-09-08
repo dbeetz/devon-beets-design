@@ -154,13 +154,33 @@
 				</div>
 				<div class="container">
 					<div class="row">
-						<div class="col-xs-12">
-							<h6>Languages</h6>
+						<div class="col-xs-12 col-md-4 col-md-offset-4">
+							<h3 class="text-center">LANGUAGES & FRAMEWORKS</h3>
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-xs-12">
-
+						<div class="col-xs-12 col-md-4 col-md-offset-4">
+							<p class="text-center">I currently know and use, adding more over time! :)</p>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-4 col-md-1 col-md-offset-3">
+							<img src="images/HTML5_Logo_256.png" alt="angular" class="img-responsive center-block">
+						</div>
+						<div class="col-xs-4 col-md-1">
+							<img src="images/CSS3_Logo_256.png" alt="angular" class="img-responsive center-block">
+						</div>
+						<div class="col-xs-4 col-md-1">
+							<img src="images/Bootstrap_Logo_256.svg" alt="angular" class="img-responsive center-block">
+						</div>
+						<div class="col-xs-4 col-md-1">
+							<img src="images/AngularJS_Logo_256.png" alt="angular" class="img-responsive center-block">
+						</div>
+						<div class="col-xs-4 col-md-1">
+							<img src="images/PHP_Logo_256.png" alt="angular" class="img-responsive center-block">
+						</div>
+						<div class="col-xs-4 col-md-1">
+							<img src="images/MySQL_Logo_256.png" alt="angular" class="img-responsive center-block">
 						</div>
 					</div>
 					<div class="row">
