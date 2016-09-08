@@ -83,7 +83,7 @@
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav navbar-right">
 								<li><a href="#about-me">About Me</a></li>
-								<li><a href="#resume">Resume</a></li>
+								<li><a href="#resume">My Work</a></li>
 								<li><a href="#contact">Contact</a></li>
 							</ul>
 						</div><!-- /.navbar-collapse -->
@@ -146,7 +146,7 @@
 				</div>
 			</section>
 
-			<!-- Begin Resume -->
+			<!-- Begin My Work -->
 			<section id="resume">
 				<div class="resume-title">
 					<h1 class="text-center">My Work</h1>
