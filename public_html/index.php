@@ -254,19 +254,19 @@
 		<footer>
 			<div class="container">
 				<div class="row">
-					<div class="col-xs-1 col-xs-offset-4">
+					<div class="col-md-1 col-md-offset-4 col-xs-3">
 						<a href="https://www.linkedin.com/in/devon-beets" target="_blank"><span class="fa-stack fa-lg"><i
 									class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-linkedin fa-stack-1x"></i></span></a>
 					</div>
-					<div class="col-xs-1">
+					<div class="col-md-1 col-xs-3">
 						<a href="https://twitter.com/dayBeeTz" target="_blank"><span class="fa-stack fa-lg"><i
 									class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x"></i></span></a>
 					</div>
-					<div class="col-xs-1">
+					<div class="col-md-1 col-xs-3">
 						<a href="https://www.facebook.com/devonnbeets" target="_blank"><span class="fa-stack fa-lg"><i
 									class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x"></i></span></a>
 					</div>
-					<div class="col-xs-1">
+					<div class="col-md-1 col-xs-3">
 						<a href="https://github.com/dbeetz" target="_blank"><span class="fa-stack fa-lg"><i
 									class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-github fa-stack-1x"></i></span></a>
 					</div>
