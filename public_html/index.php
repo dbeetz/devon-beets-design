@@ -190,43 +190,43 @@
 				<div class="row">
 					<div class="col-xs-12 col-md-6 col-md-offset-3">
 						<div class="well">
-							<form id="contact-form" action="" method="POST">
+							<form id="contact-form" action="php/mailer.php" method="POST" novalidate>
 								<div class="form-group">
-									<label for="Name">Name</label>
+									<label for="name">Name</label>
 									<div class="input-group">
 										<div class="input-group-addon">
 											<span class="fa fa-user fa-fw" aria-hidden="true"></span>
 										</div>
-										<input type="text" class="form-control" id="name"
+										<input type="text" class="form-control" id="name" name="name"
 												 placeholder="Who am I speaking with?">
 									</div>
 								</div>
 								<div class="form-group">
-									<label for="Name">Email</label>
+									<label for="email">Email</label>
 									<div class="input-group">
 										<div class="input-group-addon">
 											<span class="fa fa-envelope fa-fw" aria-hidden="true"></span>
 										</div>
-										<input type="email" class="form-control" id="email"
+										<input type="email" class="form-control" id="email" name="email"
 												 placeholder="What is your email address?">
 									</div>
 								</div>
 								<div class="form-group">
-									<label for="exampleInputPassword1">Subject</label>
+									<label for="subject">Subject</label>
 									<div class="input-group">
 										<div class="input-group-addon">
 											<span class="fa fa-info-circle fa-fw" aria-hidden="true"></span>
 										</div>
-										<input type="text" class="form-control" id="subject" placeholder="What's the topic?">
+										<input type="text" class="form-control" id="subject" name="subject" placeholder="What's the topic?">
 									</div>
 								</div>
 								<div class="form-group">
-									<label for="exampleInputPassword1">Content</label>
+									<label for="content">Content</label>
 									<div class="input-group">
 										<div class="input-group-addon">
 											<span class="fa fa-comment fa-fw" aria-hidden="true"></span>
 										</div>
-										<textarea class="form-control" rows="4" maxlength="500" id="content"
+										<textarea class="form-control" rows="4" maxlength="500" id="content" name="message"
 													 placeholder="What would you like to talk about?"></textarea>
 									</div>
 								</div>
@@ -236,6 +236,13 @@
 								<a class="btn btn-primary" href="#"><i class="fa fa-rocket fa-lg"></i> Submit</a>
 								<a id="reset-form" class="btn btn-warning href=" #"><i class="fa fa-undo fa-lg"></i> Reset</a>
 							</form>
+
+							<!--empty area for form error/success output-->
+							<div class="row">
+								<div class="col-xs-12">
+									<div id="output-area"></div>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
