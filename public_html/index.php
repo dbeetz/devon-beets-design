@@ -109,8 +109,17 @@
 			<!-- Begin About Me -->
 			<section id="about-me">
 				<div class="about-me-title">
-					<h1 class="text-center">Web Developer <span class="fa fa-code fa-fw"></span> Graphic Artist <span
-							class="fa fa-paint-brush fa-fw"></span> Gamer <span class="fa fa-gamepad fa-fw"></span></h1>
+					<h1 class="text-center">
+						<div class="row">
+						<div class="col-md-4 col-xs-12">
+							Web Developer <span class="fa fa-code fa-fw"></span></div>
+						<div class="col-md-4 col-xs-12">
+						Graphic Artist <span
+							class="fa fa-paint-brush fa-fw"></span></div>
+						<div class="col-md-4 col-xs-12">
+						Gamer <span class="fa fa-gamepad fa-fw"></span></div>
+						</div>
+					</h1>
 				</div>
 				<div class="container">
 					<div class="row">
@@ -192,7 +201,7 @@
 						<div class="well">
 							<form id="contact-form" action="php/mailer.php" method="POST" novalidate>
 								<div class="form-group">
-									<label for="name">Name</label>
+									<label for="name">Name *</label>
 									<div class="input-group">
 										<div class="input-group-addon">
 											<span class="fa fa-user fa-fw" aria-hidden="true"></span>
@@ -202,7 +211,7 @@
 									</div>
 								</div>
 								<div class="form-group">
-									<label for="email">Email</label>
+									<label for="email">Email *</label>
 									<div class="input-group">
 										<div class="input-group-addon">
 											<span class="fa fa-envelope fa-fw" aria-hidden="true"></span>
@@ -222,7 +231,7 @@
 									</div>
 								</div>
 								<div class="form-group">
-									<label for="content">Content</label>
+									<label for="content">Content *</label>
 									<div class="input-group">
 										<div class="input-group-addon">
 											<span class="fa fa-comment fa-fw" aria-hidden="true"></span>
