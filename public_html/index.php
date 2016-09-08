@@ -25,7 +25,7 @@
 
 		<!-- Custom CSS  -->
 		<link rel="stylesheet" href="css/style.css" type="text/css"/>
-		<link rel="stylesheet" href="css/sticky-footer.css" type="text/css">
+		<link rel="stylesheet" href="css/sfooter.css" type="text/css">
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
