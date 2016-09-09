@@ -110,19 +110,18 @@
 			<!-- Begin About Me -->
 			<section id="about-me">
 				<div class="about-me-title">
-					<h1 class="text-center">
-						<div class="row">
-							<div class="col-md-4 col-xs-12">
-								WEB DEVELOPER <span class="fa fa-code fa-fw"></span></div>
-							<div class="col-md-4 col-xs-12">
-								GRAPHIC ARTIST <span
-									class="fa fa-paint-brush fa-fw"></span></div>
-							<div class="col-md-4 col-xs-12">
-								GAMER <span class="fa fa-gamepad fa-fw"></span></div>
-						</div>
-					</h1>
+					<h1 class="text-center">ABOUT ME</h1>
 				</div>
 				<div class="container">
+					<div class="row">
+						<div class="col-md-4 col-xs-12">
+							<h3 class="text-center">WEB DEVELOPER <span class="fa fa-code fa-fw"></span></h3></div>
+						<div class="col-md-4 col-xs-12">
+							<h3 class="text-center">GRAPHIC ARTIST <span
+								class="fa fa-paint-brush fa-fw"></span></h3></div>
+						<div class="col-md-4 col-xs-12">
+							<h3 class="text-center">GAMER <span class="fa fa-gamepad fa-fw"></span></h3></div>
+					</div>
 					<div class="row">
 						<div class="col-sm-6 col-md-3">
 							<img src="images/DevonBeetsSelfieHalfSize.png" alt="Devon Beets"
