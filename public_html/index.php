@@ -140,7 +140,8 @@
 									College, where I have made many great friends and gotten a great foundation in coding!</p>
 								<p>I hope you enjoy my site and learn a thing or two about me, if you are interested in getting
 									to know me or employ my services please leave me a message!</p>
-								<p class="text-center">Thank you!</p>
+								<p>Thank you!</p>
+								<img src="images/Signature.png" alt="Signature">
 							</div>
 						</div>
 					</div>
