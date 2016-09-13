@@ -106,6 +106,8 @@ nav.navbar {
 .navbar-default .navbar-nav>li>a {
 	color: #019FDC;
 	font-size: 2.5rem;
+	display: inline-block;
+	margin-top: 15px;
 }
 
 .navbar-default .navbar-brand {
@@ -129,6 +131,7 @@ nav.navbar {
 .navbar-inverse .navbar-nav>li>a {
 	color: white;
 	font-size: 2rem;
+	margin-top: 15px;
 }
 
 .navbar-inverse .navbar-brand:focus,
@@ -175,8 +178,10 @@ nav.navbar {
 	margin-bottom: 15px;
 }
 
-.img-responsive {
+.self-photo {
 	margin-top: 15px;
+	min-height: 365px;
+	width: auto;
 }
 
 /**********************************************

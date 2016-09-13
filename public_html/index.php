@@ -76,7 +76,9 @@
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-							<a class="navbar-brand" href="#introduction"><img src="images/DevonBeetsDesignLogo.png" alt="Devon Beets Logo"></a>
+							<a class="navbar-brand" href="#introduction">
+								<img src="images/DevonBeetsDesignLogo.png" alt="Devon Beets Logo">
+							</a>
 						</div>
 
 
@@ -125,7 +127,7 @@
 					<div class="row">
 						<div class="col-sm-6 col-md-3">
 							<img src="images/DevonBeetsSelfieHalfSize.png" alt="Devon Beets"
-								  class="img-responsive center-block"/>
+								  class="self-photo img-responsive center-block"/>
 						</div>
 						<div class="col-sm-6 col-md-9">
 							<div class="well">
