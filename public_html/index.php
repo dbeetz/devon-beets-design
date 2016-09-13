@@ -76,7 +76,7 @@
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-							<a class="navbar-brand" href="#introduction">DB Design logo</a>
+							<a class="navbar-brand" href="#introduction"><img src="images/DevonBeetsDesignLogo.png" alt="Devon Beets Logo"></a>
 						</div>
 
 

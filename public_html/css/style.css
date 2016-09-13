@@ -66,7 +66,7 @@ h1 {
 /* this adds padding to compensate for the fixed navbar on mobile */
 #introduction {
 	padding-top: 70px;
-	background-image: url(../images/Colored-Clouds.jpg);
+	background-image: url(../images/AlbuquerqueBackgroundJPEG.jpg);
 	background-size: cover;
 }
 
@@ -100,6 +100,7 @@ nav.navbar {
 .navbar-default {
 	background-color: #019FDC;
 	border: none;
+	min-height: 100px;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -120,7 +121,7 @@ nav.navbar {
 }
 
 .navbar-inverse .navbar-brand {
-	color: white;
+	color: #019FDC;
 	font-size: 2rem;
 }
 
@@ -179,7 +180,7 @@ nav.navbar {
 /*********************************************/
 
 footer {
-	background-color: #0033EE;
+	background-color: #232F61;
 	color: white;
 }
 
