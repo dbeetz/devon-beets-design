@@ -118,7 +118,7 @@
 							<h3 class="text-center">WEB DEVELOPER <span class="fa fa-code fa-fw"></span></h3></div>
 						<div class="col-md-4 col-xs-12">
 							<h3 class="text-center">GRAPHIC ARTIST <span
-								class="fa fa-paint-brush fa-fw"></span></h3></div>
+									class="fa fa-paint-brush fa-fw"></span></h3></div>
 						<div class="col-md-4 col-xs-12">
 							<h3 class="text-center">GAMER <span class="fa fa-gamepad fa-fw"></span></h3></div>
 					</div>
@@ -136,7 +136,8 @@
 									dad! He taught me how to build a PC when I was thirteen!</p>
 								<p>I have since gotten my degree from the University of New Mexico in International business
 									management, but after I graduated had a change of heart and decided to follow my passion for
-									information technology!</p>
+									information technology! This led me to the Deep Dive Coding Bootcamp at Central New Mexico
+									College, where I have made many great friends and gotten a great foundation in coding!</p>
 								<p>I hope you enjoy my site and learn a thing or two about me, if you are interested in getting
 									to know me or employ my services please leave me a message!</p>
 								<p class="text-center">Thank you!</p>
