@@ -166,48 +166,83 @@
 							<p class="text-center">I currently know and use, adding more over time! :)</p>
 						</div>
 					</div>
+					<div class="languages">
+						<div class="row">
+							<div class="col-xs-4 col-md-1 col-md-offset-3">
+								<img src="images/HTML5_Logo_256.png" alt="angular" class="img-responsive center-block">
+							</div>
+							<div class="col-xs-4 col-md-1">
+								<img src="images/CSS3_Logo_256.png" alt="angular" class="img-responsive center-block">
+							</div>
+							<div class="col-xs-4 col-md-1">
+								<img src="images/Bootstrap_Logo_256.svg" alt="angular" class="img-responsive center-block">
+							</div>
+							<div class="col-xs-4 col-md-1">
+								<img src="images/AngularJS_Logo_256.png" alt="angular" class="img-responsive center-block">
+							</div>
+							<div class="col-xs-4 col-md-1">
+								<img src="images/PHP_Logo_256.png" alt="angular" class="img-responsive center-block">
+							</div>
+							<div class="col-xs-4 col-md-1">
+								<img src="images/MySQL_Logo_256.png" alt="angular" class="img-responsive center-block">
+							</div>
+						</div>
+					</div>
 					<div class="row">
-						<div class="col-xs-4 col-md-1 col-md-offset-3">
-							<img src="images/HTML5_Logo_256.png" alt="angular" class="img-responsive center-block">
+						<div class="col-xs-12 col-md-4 col-md-offset-4">
+							<h3 class="text-center">PROJECTS</h3>
 						</div>
-						<div class="col-xs-4 col-md-1">
-							<img src="images/CSS3_Logo_256.png" alt="angular" class="img-responsive center-block">
-						</div>
-						<div class="col-xs-4 col-md-1">
-							<img src="images/Bootstrap_Logo_256.svg" alt="angular" class="img-responsive center-block">
-						</div>
-						<div class="col-xs-4 col-md-1">
-							<img src="images/AngularJS_Logo_256.png" alt="angular" class="img-responsive center-block">
-						</div>
-						<div class="col-xs-4 col-md-1">
-							<img src="images/PHP_Logo_256.png" alt="angular" class="img-responsive center-block">
-						</div>
-						<div class="col-xs-4 col-md-1">
-							<img src="images/MySQL_Logo_256.png" alt="angular" class="img-responsive center-block">
+					</div>
+					<div class="row">
+						<div class="col-xs-12 col-md-4 col-md-offset-4">
+							<p class="text-center">I have recently worked on, always improving!</p>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-sm-3 col-md-3 col-md-offset-3">
-							<p>Insert picture of project here!</p>
+							<div class="laptop-image">
+								<img src="images/DevConnectLogoLarge.png" alt="Dev Connect">
+							</div>
 						</div>
-						<div class="col-sm-3 col-md-3">
-							<p>Insert comments and project duties here!</p>
+						<div class="col-sm-3 col-md-6">
+							<h3>Dev Connect</h3>
+							<p>Capstone project that connects web developers with non-profits that need an online presence.</p>
+							<p>Tasks</p>
+							<ul>
+								<li>Data Design andProgramming MySQL Database</li>
+								<li>Writing backend PHP and APIs</li>
+								<li>Templating and routing with AngularJS</li>
+								<li>Front end with HTML, CSS, and jQuery</li>
+							</ul>
+							<p>Repository: <a href="https://github.com/zlaudick/dev-connect" alt="dev connect github">https://github.com/zlaudick/dev-connect</a></p>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-12 col-md-4 col-md-offset-4">
+							<h3 class="text-center">FUTURE PROJECTS</h3>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-12 col-md-4 col-md-offset-4">
+							<p class="text-center">I will be working on in the near time space!</p>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-sm-3 col-md-3 col-md-offset-3">
-							<p>Insert picture of project here!</p>
+							<div class="laptop-image">
+								<img src="images/DDCBJeopardyLogo.png" alt="Dev Connect">
+							</div>
 						</div>
-						<div class="col-sm-3 col-md-3">
-							<p>Insert comments and project duties here!</p>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-sm-3 col-md-3 col-md-offset-3">
-							<p>Insert picture of project here!</p>
-						</div>
-						<div class="col-sm-3 col-md-3">
-							<p>Insert comments and project duties here!</p>
+						<div class="col-sm-3 col-md-6">
+							<h3>Deep Dive Jeopardy</h3>
+							<p>A jeopardy style quiz game for future cohorts of the Deep Dive Coding Bootcamp! :)</p>
+							<p>Tasks</p>
+							<ul>
+								<li>Data Design and Programming MySQL Database</li>
+								<li>Writing backend PHP classes and APIs</li>
+								<li>Templating and routing with AngularJS</li>
+								<li>Front end with HTML, CSS, and jQuery</li>
+							</ul>
 						</div>
 					</div>
 				</div>
