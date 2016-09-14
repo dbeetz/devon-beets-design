@@ -125,11 +125,11 @@
 							<h3 class="text-center">GAMER <span class="fa fa-gamepad fa-fw"></span></h3></div>
 					</div>
 					<div class="row">
-						<div class="col-sm-6 col-md-3">
-							<img src="images/DevonBeetsSelfieHalfSize.png" alt="Devon Beets"
-								  class="self-photo img-responsive center-block"/>
+						<div class="col-sm-6 col-md-4">
+							<img src="images/DevonBeetsSelfPicture.png" alt="Devon Beets"
+								  class="self-photo img-responsive center-block img-circular"/>
 						</div>
-						<div class="col-sm-6 col-md-9">
+						<div class="col-sm-6 col-md-8">
 							<div class="well">
 								<h3>Hello there!</h3>
 								<p>My name is Devon Beets and I am a web developer and graphics artist! I love both people and
