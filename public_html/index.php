@@ -76,9 +76,6 @@
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-							<a class="navbar-brand" href="#introduction">
-								<img src="images/DevonBeetsDesignLogo.png" alt="Devon Beets Logo">
-							</a>
 						</div>
 
 
@@ -88,6 +85,9 @@
 								<li><a href="#about-me">ABOUT ME</a></li>
 								<li><a href="#resume">MY WORK</a></li>
 								<li><a href="#contact">CONTACT</a></li>
+								<a class="navbar-brand" href="#introduction">
+									<img src="images/DevonBeetsDesignLogo.png" alt="Devon Beets Logo">
+								</a>
 							</ul>
 						</div><!-- /.navbar-collapse -->
 					</div>

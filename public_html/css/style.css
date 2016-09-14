@@ -101,6 +101,7 @@ nav.navbar {
 	background-color: #019FDC;
 	border: none;
 	min-height: 72px;
+	box-shadow: 0 0 25px rgba(0,0,0,0.3);
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -180,10 +181,6 @@ nav.navbar {
 
 .self-photo {
 	margin-top: 15px;
-}
-
-.languages {
-	margin-bottom: 30px;
 }
 
 /**********************************************
