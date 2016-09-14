@@ -101,7 +101,7 @@ nav.navbar {
 	background-color: #019FDC;
 	border: none;
 	min-height: 72px;
-	box-shadow: 0 0 25px rgba(0,0,0,0.3);
+	box-shadow: 0 0 25px rgba(0,0,0,0.5);
 }
 
 .navbar-default .navbar-nav>li>a {
