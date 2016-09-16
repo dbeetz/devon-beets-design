@@ -181,6 +181,9 @@ nav.navbar {
 
 .self-photo {
 	margin-top: 15px;
+	min-height: 345px;
+	width: auto;
+	box-shadow: 0 0 25px rgba(0,0,0,0.3);
 }
 
 /**********************************************

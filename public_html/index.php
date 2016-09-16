@@ -127,7 +127,7 @@
 					<div class="row">
 						<div class="col-sm-6 col-md-4">
 							<img src="images/DevonBeetsSelfPicture.png" alt="Devon Beets"
-								  class="self-photo img-responsive center-block img-circular"/>
+								  class="self-photo img-responsive center-block img-circle">
 						</div>
 						<div class="col-sm-6 col-md-8">
 							<div class="well">
