@@ -100,9 +100,9 @@
 					<div class="row">
 						<div class="col-xs-12">
 							<div class="jumbotron col-md-6 col-md-offset-5">
-								<p class="text-center">Hello! My name is</p>
+								<h3 class="text-center">Hello! My name is</h3>
 								<h1 class="text-center">Devon Beets</h1>
-								<p class="text-center">and I'm a Web Designer! :)</p>
+								<h3 class="text-center">and I'm a Web Designer! :)</h3>
 							</div>
 						</div>
 					</div>
@@ -143,7 +143,7 @@
 								<p>I hope you enjoy my site and learn a thing or two about me, if you are interested in getting
 									to know me or employ my services please leave me a message!</p>
 								<p>Thank you!</p>
-								<img src="images/Signature.png" alt="Signature">
+								<img src="images/SharpieSigSmall.png" alt="Signature">
 							</div>
 						</div>
 					</div>
@@ -321,7 +321,7 @@
 		<!-- Begin Footer -->
 		<footer>
 			<div class="container">
-				<div class="row">
+				<div class="row links">
 					<div class="col-md-1 col-md-offset-4 col-xs-3">
 						<a href="https://www.linkedin.com/in/devon-beets" target="_blank"><span class="fa-stack fa-lg"><i
 									class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-linkedin fa-stack-1x"></i></span></a>
