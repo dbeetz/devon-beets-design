@@ -341,7 +341,7 @@
 				</div>
 				<div class="row">
 					<div class="col-xs-12">
-						<p class="text-center h6">© Devon Beets 2016 All Rights Reserved</p>
+						<p class="text-center footer-text h6">© Devon Beets 2016 All Rights Reserved</p>
 					</div>
 				</div>
 			</div>
