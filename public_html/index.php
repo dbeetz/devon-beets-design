@@ -303,7 +303,7 @@
 								<!-- Insert Google reCaptcha -->
 								<div class="g-recaptcha" data-sitekey="6Le8sykTAAAAAK6v6nl8jfFS6UIwr-xX3yUesdAw"></div>
 								<button class="btn btn-primary" type="submit"><i class="fa fa-rocket fa-lg"></i> Submit</button>
-								<button class="btn btn-warning" type="submit"><i class="fa fa-undo fa-lg"></i> Reset</button>
+								<button class="btn btn-warning" type="reset"><i class="fa fa-undo fa-lg"></i> Reset</button>
 							</form>
 
 							<!--empty area for form error/success output-->
